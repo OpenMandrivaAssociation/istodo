@@ -1,0 +1,13 @@
+diff -urN istodo-1.3.0/iStodo.pro istodo-1.3.0-patched/iStodo.pro
+--- istodo-1.3.0/iStodo.pro	2014-09-16 15:16:35.000000000 +1100
++++ istodo-1.3.0-patched/iStodo.pro	2014-09-17 16:01:27.408870292 +1100
+@@ -5,8 +5,7 @@
+ 
+ SUBDIRS += \
+             desktop \
+-            updaterServer \
+-    iOS
++            updaterServer
+ 
+ HEADERS += \
+         const.h \
