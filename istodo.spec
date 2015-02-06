@@ -1,7 +1,7 @@
 Summary:	Organizer for students
 Name:		istodo
 Version:	1.3.0
-Release:	1
+Release:	2
 License:	GPLv3+
 Group:		Education
 Url:		http://istodo.ru/
