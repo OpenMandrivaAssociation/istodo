@@ -4,7 +4,7 @@ Version:	1.3.0
 Release:	2
 License:	GPLv3+
 Group:		Education
-Url:		http://istodo.ru/
+Url:		https://istodo.ru/
 # Repack from http://dev.istodo.ru/istodo-desktop/get/v%{version}.tar.bz2
 Source0:	%{name}-%{version}.tar.bz2
 Patch0:		istodo-1.3.0-no-iOS.patch
